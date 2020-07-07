@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "Assets/Scenes/\u7DF4\u7FD2\uFF1A\u6CDB\u578B\u3001\u96C6\u5408\u8207 LinQ.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
